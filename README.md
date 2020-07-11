@@ -29,13 +29,13 @@ https://github.com/1Hive/honey-pot
 
 The Gardens and Honey Template build on a number of Aragon Apps, which are sort of like DAO legos. You can find the repos for these apps bellow. Only the Conviction Voting app and Dandelion Voting app currently have sub-graphs and connectors, but they are the ones that you would likely need to fetch data from, the others should be easy enough to interact with directly.
 
-Conviction Voting: https://github.com/1Hive/conviction-voting-app
-Marketplace: https://github.com/1Hive/marketplace-app
-Dandelion Voting: https://github.com/1Hive/dandelion-voting-app
-"Hooked" Token Manager: https://github.com/1Hive/token-manager-app
-Redemptions: https://github.com/1Hive/redemptions-app
-Issuance: https://github.com/aragonone/issuance-app
-Tollgate: https://github.com/aragonone/tollgate
+- Conviction Voting: https://github.com/1Hive/conviction-voting-app
+- Marketplace: https://github.com/1Hive/marketplace-app
+- Dandelion Voting: https://github.com/1Hive/dandelion-voting-app
+- "Hooked" Token Manager: https://github.com/1Hive/token-manager-app
+- Redemptions: https://github.com/1Hive/redemptions-app
+- Issuance: https://github.com/aragonone/issuance-app
+- Tollgate: https://github.com/aragonone/tollgate
 
 ## xDai Deployment
 
