@@ -43,9 +43,9 @@ We have also deployed the Aragon infrastructure to xDai to enable us to experime
 
 This deployment is new and not "official", so some tooling may not work properly with xDai, but most things we have tried work fine.
 
-Aragon Client: https://aragon.1hive.org (Note deploying using the client is not currently supported)
-Subgraph: https://thegraph.com/explorer/subgraph/1hive/aragon-xdai
-Registry for use in arapp.json: `0xaafca6b0c89521752e559650206d7c925fd0e530`
+- Aragon Client: https://aragon.1hive.org (Note deploying using the client is not currently supported)
+- Subgraph: https://thegraph.com/explorer/subgraph/1hive/aragon-xdai
+- Registry for use in arapp.json: `0xaafca6b0c89521752e559650206d7c925fd0e530`
 
 ### If you get stuck...
 
